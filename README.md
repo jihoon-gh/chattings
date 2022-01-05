@@ -5,7 +5,7 @@
     <title>practice_for_SSR</title>
   </head>
   <body>
-    <h1> this is second project for practicing Server-Side-Rendering</h1>
+    <h1> this is second project for studying backend </h1>
     using tech stack
     <ul>
       <li>mongoDB</li>
