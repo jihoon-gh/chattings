@@ -14,7 +14,7 @@
       <li>node.js</li>
     </ul>
    <br>
-   this can make you chat with strangers. maybe.
+   this can make you chat with strangers. maybe.<br>
     <strong>thx for wathing this.</strong>
     </body>
 </html>
