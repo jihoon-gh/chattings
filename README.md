@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1> this is second project for studying backend </h1>
-    <h2>using tech stack<h2>
+    <h2>using tech stack</h2>
     <ul>
       <li>mongoDB</li>
       <li>nest.js</li>
