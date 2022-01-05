@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset = "utf-8">
-    <title>practice_for_SSR</title>
   </head>
   <body>
     <h1> this is second project for studying backend </h1>
