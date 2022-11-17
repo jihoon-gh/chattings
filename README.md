@@ -9,8 +9,6 @@
     <ul>
       <li>mongoDB</li>
       <li>nest.js</li>
-      <li>vanilaJS</li>
-      <li>node.js</li>
     </ul>
    <br>
    this can make you chat with strangers. maybe.<br>
